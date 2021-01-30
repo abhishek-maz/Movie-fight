@@ -1,0 +1,1 @@
+An app that compares two movies based on parameters obtained from their IMDb profiles. Winner in each paramter is shown in green.
